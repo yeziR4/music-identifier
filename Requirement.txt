@@ -1,0 +1,4 @@
+boto3==1.19.10
+pyaudio==0.2.11
+pydub==0.25.1
+requests==2.26.0
